@@ -3,6 +3,7 @@
 
 ## 1.下载chrome浏览器内核
 
+https://googlechromelabs.github.io/chrome-for-testing/#stable
 
 分别下载chrome和chromedriver
 
