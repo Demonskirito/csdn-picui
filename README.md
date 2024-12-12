@@ -37,3 +37,6 @@ https://googlechromelabs.github.io/chrome-for-testing/#stable
 在这里我们点击图片框我们就可以上传我们的照片至csdn的图床了
 
 ![Pasted image 20241209193444](https://github.com/user-attachments/assets/224f326a-ac02-4616-aa35-a05eb3a6747c)
+
+csdn图床exe文件分享
+https://1drv.ms/u/s!AmaP7qa1s2hZgQFO8yz9FC-mP5x0?e=xs6fX4
